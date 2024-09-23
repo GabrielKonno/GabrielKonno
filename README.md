@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 🎓 Graduando em Matemática.
 - 📊 Estudante de Ciência de Dados pela DNC.
-- 🤖 Apaixonado por IA e suas aplicações em resolução de problemas.
+- 🤖 Interessado por IA e suas aplicações em resolução de problemas.
 - 🛠️ Conhecimento em Python, SQL, R, PowerBI e Excel.
 - 🚀 Experiência em Empreendedorismo, tendo fundado e gerido empresas.
 
