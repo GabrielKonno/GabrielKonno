@@ -20,8 +20,7 @@ Atualmente, estou focado em expandir minhas habilidades em Ciência de Dados e a
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielKonno&show_icons=true&theme=radical)
 
 ## 📊 Linguagens Mais Usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKonno&langs_count=10&layout=compact&theme=radical" alt="Linguagens mais usadas">
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKonno&layout=compact&theme=radical)
 
 ## 🌱 Áreas de Estudo Atual
 - Ciência de Dados
