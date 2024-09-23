@@ -17,10 +17,10 @@ Atualmente, estou focado em expandir minhas habilidades em Ciência de Dados e a
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel)
 
 ## ⚡ GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielKonno&show_icons=true&theme=radical)
 
 ## 📊 Linguagens Mais Usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKonno&layout=compact&theme=radical)
 
 ## 🌱 Áreas de Estudo Atual
 - Ciência de Dados
