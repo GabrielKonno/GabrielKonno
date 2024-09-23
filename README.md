@@ -30,7 +30,7 @@ Atualmente, estou focado em expandir minhas habilidades em Ciência de Dados e a
 
 ## 💼 Experiências Profissionais
 - Empreendedor com experiência em gestão e liderança de equipes.
-- Desenvolvimento de soluções para problemas reais utilizando ferramentas de ciência de dados.
+- Desenvolvimento de soluções para problemas reais utilizando ferramentas de IA e analisando dados.
 
 ## 🌍 Me Encontre em Outros Lugares
 - [LinkedIn](https://www.linkedin.com/in/gabrielkonno/)
