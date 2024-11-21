@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 - 🎓 Graduando em Matemática.
-- 📊 Estudante de Ciência de Dados pela DNC.
-- 🤖 Interessado por IA e suas aplicações em resolução de problemas.
-- 🚀 Experiência em Empreendedorismo, tendo fundado e gerido empresas.
+- 📊 Estudante de Ciência de Dados.
+- 🤖 Entusiasta de IAs e suas aplicações em resolução de problemas.
+- 🚀 Experiência em Empreendedorismo.
 
 Atualmente meu foco é em expandir minhas habilidades em Ciência de Dados e dominar a aplicação de **Inteligência Artificial** em diversas áreas.
 
