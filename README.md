@@ -2,7 +2,8 @@
 
 ## Sobre Mim
 - 🎓 Graduando em Matemática.
-- 📊 Estudante de Ciência de Dados.
+- 🎓 Cursando Tecnologia em Inteligência Artificial.
+- 📊 Cientista de Dados.
 - 🤖 Entusiasta de IAs e suas aplicações em resolução de problemas.
 - 🚀 Experiência em Empreendedorismo.
 
