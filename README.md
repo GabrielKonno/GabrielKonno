@@ -32,9 +32,6 @@ Atualmente meu foco é em expandir minhas habilidades em Ciência de Dados e dom
 - Empreendedor com experiência em gestão e liderança de equipes.
 - Desenvolvimento de soluções para problemas reais utilizando ferramentas de IA e analisando dados.
 
-## 🌍 Me Encontre em Outros Lugares
-- [LinkedIn](https://www.linkedin.com/in/gabrielkonno/)
-
 ---
 
 ![GIF de Programação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
